@@ -1,2 +1,0 @@
-# Currencies
-Created with CodeSandbox
